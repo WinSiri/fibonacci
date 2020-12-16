@@ -1,0 +1,5 @@
+name: A Dartpad exercise with function
+mode: dart
+files:
+  - name: main.dart
+  - name: solution.dart
