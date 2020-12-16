@@ -1,7 +1,6 @@
 name: fibonacci
-description: A simple command-line application.
+description: My Dart function exercise.
 # version: 1.0.0
-# homepage: https://www.example.com
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
